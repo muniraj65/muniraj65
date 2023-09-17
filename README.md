@@ -26,6 +26,6 @@ Hey, I am Muniraj Selvam, The full stack Web, and APP Developer with 12+ coding 
 <br>
 <b>Finding Fun in exploring  new technologies and frameworks.<b>
 
-<b>TECH STACK<b><br>
+<b>TECH STACK</b><br>
 PHP / LARAVEL / MYSQL / JS / ANGULAR / VUEJS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP  / HYBRID MOBILE APP / GITHUB  / APACHE / NGINX / REST API / TWILIO / AWS SERVICES / GOOGLE API's / WORDPRESS
 
