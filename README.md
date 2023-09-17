@@ -31,7 +31,7 @@ Hey, I am Muniraj Selvam, The full stack Web, and APP Developer with 12+ coding 
 </b>
 <br>
 <br>
-PHP / LARAVEL / MYSQL / JS / ANGULAR / VUEJS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP  / HYBRID MOBILE APP / GITHUB  / APACHE / NGINX / REST API / TWILIO / AWS SERVICES / GOOGLE API's / WORDPRESS
+PHP / LARAVEL / MYSQL / JS / ANGULAR / VUEJS / REACTJS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP  / HYBRID MOBILE APP / GITHUB  / APACHE / NGINX / REST API / TWILIO / AWS SERVICES / GOOGLE API's / WORDPRESS
 <br>
 <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/munirajtechi/" style="max-width: 100%;">
