@@ -1,3 +1,6 @@
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muniraj65&show_icons=true&theme=radical)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muniraj65&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
