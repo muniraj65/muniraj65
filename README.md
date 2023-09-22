@@ -37,3 +37,8 @@ PHP / LARAVEL / MYSQL / JS / ANGULAR / VUEJS / REACTJS / NODE JS / JQUERY / HTML
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/munirajtechi/" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<br><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/15VZSzmqS8reIY7VMayJBfTNeGDI19M0L/view" style="max-width: 100%;">
+My Resume
+</a>
+
