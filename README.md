@@ -26,6 +26,10 @@ Hey, I am Muniraj Selvam, The full stack Web, and APP Developer with 12+ coding 
 <br><br>
 <b>Finding Fun in exploring  new technologies and frameworks.</b>
 <br><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/15VZSzmqS8reIY7VMayJBfTNeGDI19M0L/view" style="max-width: 100%;">
+My Resume
+</a>
+<br><br>
 <b>
 <u>TECH STACK</u>
 </b>
@@ -38,7 +42,4 @@ PHP / LARAVEL / MYSQL / JS / ANGULAR / VUEJS / REACTJS / NODE JS / JQUERY / HTML
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
 <br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/15VZSzmqS8reIY7VMayJBfTNeGDI19M0L/view" style="max-width: 100%;">
-My Resume
-</a>
 
